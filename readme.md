@@ -4,6 +4,7 @@ This does not play the audio
 
 ## Requirements
 - MATLAB
+- MATLAB Image Processing Toolbox
 - FFmpeg
 - A copy of Bad Apple video
 

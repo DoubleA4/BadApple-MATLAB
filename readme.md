@@ -1,6 +1,7 @@
 # Bad Apple in MATLAB
 Play bad apple _(or any black and white video)_ in matlab\
-This does not play the audio
+This does not play the audio\
+Preview: https://www.youtube.com/watch?v=z4VdgTb3eaQ
 
 ## Requirements
 - MATLAB
